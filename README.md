@@ -1,0 +1,1 @@
+RemCom is RAT [Remote Administration Tool] that lets you execute processes on remote windows systems, copy files, process there output and stream it back. It allows execution of remote shell commands directly with full interactive console
